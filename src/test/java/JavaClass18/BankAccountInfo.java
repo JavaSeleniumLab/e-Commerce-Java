@@ -8,8 +8,6 @@ public class BankAccountInfo {
 
     static int customerCount = 0;
 
-
-
     String name,  emailAddress;
 
     int id = 0, age = 0;
